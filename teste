@@ -1,0 +1,6 @@
+numeros=["0", "1", "2", "3", "4", "5","6", "7", "8"]
+num=input("Entre: ")
+if num in numeros:
+    print("tem")
+else:
+    print("Não tem")
